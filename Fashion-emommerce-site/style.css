@@ -1,0 +1,14 @@
+.custom-bg{
+    background-color: #f5ebd0;
+}
+.custom-button{
+    background-color: rgb(236, 143, 4);
+
+    color: rgba(255, 255, 255, 0.986);
+    border: 0ch;
+    
+}
+.custom-sizing{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
